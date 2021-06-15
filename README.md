@@ -1,6 +1,5 @@
 # Performance-Evaluation-of-Fruit-Fly-Optimization-Algorithm-on-Classical-Test-Problem-Set
 
- <br /> 
  - The fruit flies are the second smallest member among the model creatures in the narrow sense which has only hundreds of neurons and with no cerebrum. 
 
  - They are pulled in to matured or aging sustenance through their detecting and recognition qualities, particularly in osphresis and vision Tsao Pan (2012) proposed a new algorithm called fruit flies optimization algorithm (FFOA) motivated by the behaviour of real fruit flies. 
